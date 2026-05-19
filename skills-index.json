@@ -1,6 +1,6 @@
 {
-  "snapshotId": "87e95d2e-d366-49c1-9092-7db96ed378db",
-  "generatedAt": "2026-05-19T15:52:33.913Z",
+  "snapshotId": "0b8f5231-4b38-4ccd-9146-26dcc730498f",
+  "generatedAt": "2026-05-19T16:03:31.859Z",
   "version": 1,
   "totalSkills": 2,
   "skills": [
@@ -32,17 +32,12 @@
       }
     },
     {
-      "isParsed": false,
       "keywords": [],
       "embeddingText": "angular-form-generator genera form angular standalone utilizzando reactive forms, tailwind css e gli standard aziendali per validazione, accessibilità e struttura del codice.",
       "githubPath": "skills/angular/angular-form-generator.md",
       "parseError": null,
       "description": "Genera form Angular standalone utilizzando Reactive Forms, Tailwind CSS e gli standard aziendali per validazione, accessibilità e struttura del codice.",
       "indexVersion": 1,
-      "tags": [
-        "angular",
-        "form"
-      ],
       "relatedSkills": [],
       "skillId": "eArynefeaGcIMBiZA8pP",
       "useCases": [],
@@ -53,11 +48,13 @@
       ],
       "sourceSha": "",
       "name": "angular-form-generator",
-      "category": "angular",
       "status": "published",
+      "isParsed": true,
+      "category": "general",
+      "tags": [],
       "updatedAt": {
-        "_seconds": 1779205952,
-        "_nanoseconds": 991000000
+        "_seconds": 1779206611,
+        "_nanoseconds": 187000000
       }
     }
   ]
