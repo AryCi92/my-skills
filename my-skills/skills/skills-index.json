@@ -1,7 +1,35 @@
 {
-  "snapshotId": "ad1ff4be-16a7-4e3c-ad9d-fd21c6aeb879",
-  "generatedAt": "2026-05-18T16:20:45.823Z",
+  "snapshotId": "396f64a6-6367-46e1-b95d-8697684a7096",
+  "generatedAt": "2026-05-19T08:43:17.105Z",
   "version": 1,
-  "totalSkills": 0,
-  "skills": []
+  "totalSkills": 1,
+  "skills": [
+    {
+      "isParsed": true,
+      "keywords": [],
+      "embeddingText": "angular-api-service-standard generate angular api services following company standards using httpclient, typing, and best practices",
+      "githubPath": "skills/angular/angular-api-service-standard.md",
+      "parseError": null,
+      "description": "Generate Angular API services following company standards using HttpClient, typing, and best practices",
+      "indexVersion": 1,
+      "tags": [],
+      "relatedSkills": [],
+      "skillId": "C0TaJFz6bsjqJpiroChp",
+      "useCases": [],
+      "nameTokens": [
+        "angular",
+        "api",
+        "service",
+        "standard"
+      ],
+      "sourceSha": "",
+      "name": "angular-api-service-standard",
+      "category": "general",
+      "status": "published",
+      "updatedAt": {
+        "_seconds": 1779180196,
+        "_nanoseconds": 536000000
+      }
+    }
+  ]
 }
