@@ -1,4 +1,3 @@
-```markdown
 ---
 name: angular-form-generator
 description: Genera form Angular standalone utilizzando Reactive Forms, Tailwind CSS e gli standard aziendali per validazione, accessibilità e struttura del codice.
@@ -162,4 +161,3 @@ Non usare questa skill quando:
 - Non è necessaria interazione tramite form
 
 In questi casi utilizza skill più appropriate.
-```
