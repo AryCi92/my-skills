@@ -1,6 +1,6 @@
 {
-  "snapshotId": "396f64a6-6367-46e1-b95d-8697684a7096",
-  "generatedAt": "2026-05-19T08:43:17.105Z",
+  "snapshotId": "d51b24f5-c259-41b6-80f9-3a2cf6ffc610",
+  "generatedAt": "2026-05-19T15:18:16.912Z",
   "version": 1,
   "totalSkills": 1,
   "skills": [
@@ -27,8 +27,8 @@
       "category": "general",
       "status": "published",
       "updatedAt": {
-        "_seconds": 1779180196,
-        "_nanoseconds": 536000000
+        "_seconds": 1779203894,
+        "_nanoseconds": 766000000
       }
     }
   ]
