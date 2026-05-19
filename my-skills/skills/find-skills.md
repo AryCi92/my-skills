@@ -7,6 +7,7 @@ Before generating code:
 2. Identify relevant domains
 3. Suggest appropriate skills
 4. Use related skills when needed
+5. Run the install command before generating code that uses the skill
 
 ## Skill Catalog
 
@@ -20,5 +21,10 @@ Best for:
 
 Keywords:
 - general
+
+Install:
+```
+npx skills add https://github.com/AryCi92/my-skills --skill angular-api-service-standard
+```
 
 ---
