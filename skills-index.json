@@ -1,0 +1,64 @@
+{
+  "snapshotId": "87e95d2e-d366-49c1-9092-7db96ed378db",
+  "generatedAt": "2026-05-19T15:52:33.913Z",
+  "version": 1,
+  "totalSkills": 2,
+  "skills": [
+    {
+      "isParsed": true,
+      "keywords": [],
+      "embeddingText": "angular-api-service-standard generate angular api services following company standards using httpclient, typing, and best practices",
+      "githubPath": "skills/angular/angular-api-service-standard.md",
+      "parseError": null,
+      "description": "Generate Angular API services following company standards using HttpClient, typing, and best practices",
+      "indexVersion": 1,
+      "tags": [],
+      "relatedSkills": [],
+      "skillId": "C0TaJFz6bsjqJpiroChp",
+      "useCases": [],
+      "nameTokens": [
+        "angular",
+        "api",
+        "service",
+        "standard"
+      ],
+      "sourceSha": "",
+      "name": "angular-api-service-standard",
+      "category": "general",
+      "status": "published",
+      "updatedAt": {
+        "_seconds": 1779203894,
+        "_nanoseconds": 766000000
+      }
+    },
+    {
+      "isParsed": false,
+      "keywords": [],
+      "embeddingText": "angular-form-generator genera form angular standalone utilizzando reactive forms, tailwind css e gli standard aziendali per validazione, accessibilità e struttura del codice.",
+      "githubPath": "skills/angular/angular-form-generator.md",
+      "parseError": null,
+      "description": "Genera form Angular standalone utilizzando Reactive Forms, Tailwind CSS e gli standard aziendali per validazione, accessibilità e struttura del codice.",
+      "indexVersion": 1,
+      "tags": [
+        "angular",
+        "form"
+      ],
+      "relatedSkills": [],
+      "skillId": "eArynefeaGcIMBiZA8pP",
+      "useCases": [],
+      "nameTokens": [
+        "angular",
+        "form",
+        "generator"
+      ],
+      "sourceSha": "",
+      "name": "angular-form-generator",
+      "category": "angular",
+      "status": "published",
+      "updatedAt": {
+        "_seconds": 1779205952,
+        "_nanoseconds": 991000000
+      }
+    }
+  ]
+}
