@@ -10,3 +10,15 @@ Before generating code:
 
 ## Skill Catalog
 
+### angular-api-service-standard
+
+Description:
+Generate Angular API services following company standards using HttpClient, typing, and best practices
+
+Best for:
+- Generate Angular API services following company standards using HttpClient, typing, and best practices
+
+Keywords:
+- general
+
+---
