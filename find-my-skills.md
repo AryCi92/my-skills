@@ -39,27 +39,6 @@ Prima di generare codice o suggerimenti:
 
 # Skill disponibili
 
-## angular-form-generator
-
-Descrizione:
-Genera form Angular standalone utilizzando Reactive Forms, Tailwind CSS e gli standard aziendali per validazione, accessibilità e struttura del codice.
-
-Ideale per:
-
-* Genera form Angular standalone utilizzando Reactive Forms, Tailwind CSS e gli standard aziendali per validazione, accessibilità e struttura del codice.
-
-Keywords:
-
-* general
-
-Comando installazione:
-
-```bash
-npx skills add https://github.com/AryCi92/my-skills --skill angular-form-generator
-```
-
----
-
 ## angular-api-service-standard
 
 Descrizione:
@@ -77,6 +56,27 @@ Comando installazione:
 
 ```bash
 npx skills add https://github.com/AryCi92/my-skills --skill angular-api-service-standard
+```
+
+---
+
+## angular-form-generator
+
+Descrizione:
+Genera form Angular standalone utilizzando Reactive Forms, Tailwind CSS e gli standard aziendali per validazione, accessibilità e struttura del codice.
+
+Ideale per:
+
+* Genera form Angular standalone utilizzando Reactive Forms, Tailwind CSS e gli standard aziendali per validazione, accessibilità e struttura del codice.
+
+Keywords:
+
+* general
+
+Comando installazione:
+
+```bash
+npx skills add https://github.com/AryCi92/my-skills --skill angular-form-generator
 ```
 
 ---
